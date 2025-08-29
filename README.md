@@ -1,4 +1,4 @@
-# AtliQ Technologies — Sales & Profit Insights Case Study  
+# AtliQ Technologies — Sales & Profit Insights
 
 ## Project Highlights  
 - Built an end-to-end BI solution in **Power BI** analyzing sales and profitability (2017–2020).  
