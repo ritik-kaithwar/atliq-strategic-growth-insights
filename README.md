@@ -46,6 +46,10 @@ The dataset was provided as a **SQL source file** (transactional sales data and 
 - **Profit Target** → benchmark table (Profit Target, Profit Target Value)  
 - **Base Measures** → DAX-driven measures (Profit Contribution %, Revenue, Quantity, YoY Growth, etc.)  
 
+**Preview** 
+
+![Data_Model](/atliq-strategic-growth-insights/images/data_model.PNG)
+
 ---
 
 ## Tools & Technologies  
@@ -122,6 +126,16 @@ The dataset was provided as a **SQL source file** (transactional sales data and 
 - SQL Source File (generalized, not included here)  
 
 ---
+
+**Dashboard Previews**
+
+![Sales_Insights](/atliq-strategic-growth-insights/images/Sales_Insights.jpg)
+
+*Shows Revenue, Quantity, Customer & Product contribution, and YoY Growth*
+
+![Profit_Insights](/atliq-strategic-growth-insights/images/Profit_Insights.jpg)
+
+*Shows Profit%, Profit Contribution%, YoY trend, and Zone-wise breakdown*
 
 ## How to Run the Project  
 1. Clone this repository.  
